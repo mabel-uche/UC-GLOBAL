@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/uc-global/static/css/main.8d4356bb.css",
+    "main.js": "/uc-global/static/js/main.d18ad4d9.js",
+    "static/js/787.36c7d17e.chunk.js": "/uc-global/static/js/787.36c7d17e.chunk.js",
+    "static/media/goldcut.png": "/uc-global/static/media/goldcut.9042f26d1a9b4b3c62b0.png",
+    "static/media/jug.jpg": "/uc-global/static/media/jug.7984925cf255e88cbafd.jpg",
+    "static/media/goldwarmer.jpg": "/uc-global/static/media/goldwarmer.f44f31eca533aa19709b.jpg",
+    "static/media/microwave.jpg": "/uc-global/static/media/microwave.eea81b55e53c995affcd.jpg",
+    "static/media/champagne.jpeg": "/uc-global/static/media/champagne.49045ab24642016de2e7.jpeg",
+    "static/media/chaffing.jpg": "/uc-global/static/media/chaffing.a4c3ba83597373497bdf.jpg",
+    "static/media/jug3.jpg": "/uc-global/static/media/jug3.ecf65fe13b8c9da12049.jpg",
+    "static/media/whitekit.jpg": "/uc-global/static/media/whitekit.a4cc6388c2ef2841a095.jpg",
+    "static/media/platecup.webp": "/uc-global/static/media/platecup.22a3ea8fa6f849be18aa.webp",
+    "index.html": "/uc-global/index.html",
+    "main.8d4356bb.css.map": "/uc-global/static/css/main.8d4356bb.css.map",
+    "main.d18ad4d9.js.map": "/uc-global/static/js/main.d18ad4d9.js.map",
+    "787.36c7d17e.chunk.js.map": "/uc-global/static/js/787.36c7d17e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d4356bb.css",
+    "static/js/main.d18ad4d9.js"
+  ]
+}
